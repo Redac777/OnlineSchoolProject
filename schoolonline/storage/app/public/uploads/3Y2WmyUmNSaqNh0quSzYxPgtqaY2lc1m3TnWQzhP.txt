@@ -1,0 +1,4 @@
+﻿studentLastName;studentFirstName;arablastName;arabfirstName;gender;birthDay;address;codeMassar;tutorOneLastName;tutorOneFirstName;tutorTwoLastName;tutorTwoFirstName;tutorOneCin;tutorTwoCin;tutorOneTel;tutorTwoTel;tutorOneEmail;tutorTwoEmail;tutorOneJob;tutorTwoJob;classe
+Bencherki;ahmed;بنشرقي;احمد;male;10/04/2013;targa;LK1445663112;Bencherki;Omar;;;EE546789;;98765;;bencherki@gmail.com;;business man;;CE1-1
+Cherkaoui;salma;الشرقوي;سلمى;female;11/04/2014;alla elfassi;ML2657890990;Cherkaoui;Ali;Bekkali;Lamiae;MM87655;FF653782;12345;987654;cherkaoui@gmail.com;bekk@gmai.com;professeur;designer;CE2-1
+Benomar;Yahya;بنعمر;يحيا;male;04/04/2006;hay riad;RB0986543214;Benomar;Saad;Keddioui;Sara;FF456789;KL765432;789654322;9876543;saad@gmail.com;keddioui@gmail.com;teacher;house wife;CE2-1
